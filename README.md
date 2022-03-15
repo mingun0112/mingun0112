@@ -5,7 +5,8 @@
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=blue)
 ![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
 
-![Java](http://img.sheilds.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red)
+![Java](http://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red)
+![Android](http://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 <!--
 **mingun0112/mingun0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
