@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 민균이네
+#### skill
+--------------------------
+![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
 <!--
 **mingun0112/mingun0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
