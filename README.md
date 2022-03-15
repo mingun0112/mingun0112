@@ -1,5 +1,5 @@
-### 민균이네
-#### Skill ⚔️
+# 📌민균이네🎪🎪🎪
+## Skill ⚔️
 --------------------------
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=blue)
