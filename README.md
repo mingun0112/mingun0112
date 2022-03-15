@@ -1,4 +1,4 @@
-# 📌민균이네🎪�
+# 📌민균이네🎪
 ## Skill ⚔️
 --------------------------
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
