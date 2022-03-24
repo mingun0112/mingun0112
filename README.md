@@ -15,6 +15,8 @@
 
 ###### 2022.01~2022.02 Naver Connect Boostcourse AI Basic 1기 
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mingun0112)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mingun0112/mingun0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
