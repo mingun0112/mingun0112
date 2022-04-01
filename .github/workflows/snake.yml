@@ -22,7 +22,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: [mingun0112]
+          github_user_name: mingun0112
           # output branch에 gif, svg를 각각 생성
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
