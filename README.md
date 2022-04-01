@@ -20,7 +20,7 @@
 
 ----------------------------------
 
-![snake gif](https://github.com/아이디/아이디/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mingun0112/mingun0112/blob/output/github-contribution-grid-snake.svg)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mingun0112)](https://github.com/anuraghazra/github-readme-stats)
