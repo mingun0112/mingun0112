@@ -17,6 +17,12 @@
 ###### 2022.01~2022.02 Naver Connect Boostcourse AI Basic 1기 
 
 ###### 2022.04~ 모두의 연구소 풀입스쿨 19기 Natural Language Processing 특화과정
+
+----------------------------------
+
+![snake gif](https://github.com/아이디/아이디/blob/output/github-contribution-grid-snake.svg)
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mingun0112)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mingun0112/mingun0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
