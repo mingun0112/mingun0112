@@ -18,6 +18,7 @@
 
 ###### 2022.04~ 모두의 연구소 풀입스쿨 19기 Natural Language Processing 특화과정
 
+###### 
 ----------------------------------
 
 ![snake gif](https://github.com/mingun0112/mingun0112/blob/output/github-contribution-grid-snake.svg)
