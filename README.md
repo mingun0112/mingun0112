@@ -16,9 +16,13 @@
 
 ###### 2021.11 글로벌창업혁신센터 빅데이터를 활용한 스마트 시티 & 캠퍼스 창업 아이디어 공모전 장려상
 
-###### 2022.01~2022.02 Naver Connect Boostcourse AI Basic 1기 
+###### 2022.01~2022.02 Naver Connect Boostcourse AI Basic 1기
+
+###### 2022.03 DACON 손동작 분류 경진대회 (23/365)
 
 ###### 2022.04~ 모두의 연구소 풀입스쿨 19기 Natural Language Processing 특화과정
+
+###### 2022.04 ~ DACON Computer Vision 이상치 탐지 알고리즘 경진대회
 
 ----------------------------------
 
