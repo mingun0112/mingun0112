@@ -24,6 +24,8 @@
 
 ###### 2022.04 ~ DACON Computer Vision 이상치 탐지 알고리즘 경진대회
 
+###### 2022.04 DeepLearning.AI-TensorFlow-Developer 수료
+
 ----------------------------------
 
 ![snake gif](https://github.com/mingun0112/mingun0112/blob/output/github-contribution-grid-snake.svg)
