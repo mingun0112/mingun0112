@@ -20,8 +20,6 @@
 
 ###### 2022.03 DACON 손동작 분류 경진대회 (23/365)
 
-###### 2022.04 ~ 모두의 연구소 풀입스쿨 19기 Natural Language Processing 특화과정
-
 ###### 2022.04 ~ DACON Computer Vision 이상치 탐지 알고리즘 경진대회
 
 ###### 2022.04 DeepLearning.AI-TensorFlow-Developer 수료
