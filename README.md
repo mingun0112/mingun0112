@@ -10,6 +10,7 @@
 ![Android](http://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 
 -------------------------------
+<!--
 ###### 2021.03 ~ 2022.02 MLPA 학부연구생
 
 ###### 2021.08 한국영상자료원 영화 빅데이터 구축･활용 과제 발굴을 위한 아이디어 공모전 장려상
@@ -46,4 +47,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
