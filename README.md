@@ -25,6 +25,8 @@
 
 ###### 2022.04 DeepLearning.AI-TensorFlow-Developer 수료
 
+###### 2023.02 모두의아이디어랩 libero
+
 ###### 2022.05 ~ Interminds AI Vision Researcher 재직 중
 
 ----------------------------------
