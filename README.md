@@ -9,6 +9,10 @@
 ![Java](http://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red)
 ![Android](http://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 -------------------------------
 <!--
 ###### 2021.03 ~ 2022.02 MLPA 학부연구생
