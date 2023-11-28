@@ -34,6 +34,7 @@
 
 ###### 2022.05 ~ Interminds AI Vision Researcher 재직 중
 
+###### 2023.11.28 Furiosa AI Hackaton 우수상
 ----------------------------------
 
 ![snake gif](https://github.com/mingun0112/mingun0112/blob/output/github-contribution-grid-snake.svg)
