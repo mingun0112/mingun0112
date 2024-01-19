@@ -7,7 +7,16 @@
                 <b>Mingyun</b>
         </samp>
 </h3>
-
+<p align="center"> 
+  <samp>
+    <br>
+    「 I love Deeplearning & Frontend  」
+    <br>
+    I'm From
+    <b>South Korea</b>
+    <br>
+  </samp>
+</p>
 ------------------------------------
 ## Skill ⚔️
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
