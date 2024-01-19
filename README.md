@@ -35,12 +35,13 @@
 <p align="left">
   <a href="https://github.com/mingun0112">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingun0112&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <a href="https://github.com/mingun0112">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mingun0112&theme=radical" alt="mingyun's GitHub Contribution"/>
+  </a>
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/mingun0112">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mingun0112&theme=radical" alt="mingyun's GitHub Contribution"/>
-  </a>
+  
 </p>
 
 -------------------------------
