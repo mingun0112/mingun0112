@@ -39,8 +39,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mingun0112&theme=radical" alt="mingyun's GitHub Contribution"/>
   </a>
   </a>
-</p>
-<p align="left">
+
   
 </p>
 
