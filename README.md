@@ -32,12 +32,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mingun0112">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingun0112&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/mingun0112">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mingun0112&theme=radical" alt="mingyun's GitHub Contribution"/>
   </a>
