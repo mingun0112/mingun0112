@@ -33,7 +33,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/mingun0112">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingun0112&theme=radical&border=7F3FBF&background=0D1117" alt="Mingyun's GitHub streak"/>
   </a>
 </p>
