@@ -10,7 +10,6 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I love Deeplearning & Frontend  」
     <br>
     I'm From
     <b>South Korea</b>
