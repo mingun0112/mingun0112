@@ -7,7 +7,7 @@
                 <b>Mingyun</b>
         </samp>
 </h3>
-<p align="center"> 
+<!-- <p align="center"> 
   <samp>
     <br>
     <br>
@@ -15,7 +15,7 @@
     <b>South Korea</b>
     <br>
   </samp>
-</p>
+</p> -->
 
 ## Skill ⚔️
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
