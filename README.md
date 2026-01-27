@@ -1,44 +1,46 @@
-<a href="https://komarev.com/ghpvc/?username=mingun0112">
-  <img align="right" src="https://komarev.com/ghpvc/?username=mingun0112&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<div align="right">
+  <a href="https://github.com/mingun0112">
+    <img src="https://komarev.com/ghpvc/?username=mingun0112&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  </a>
+</div>
 
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>Mingyun</b>
-        </samp>
-</h3>
-<!-- <p align="center"> 
-  <samp>
-    <br>
-    <br>
-    I'm From
-    <b>South Korea</b>
-    <br>
-###### 2021.03 ~ 2022.02 MLPA 학부연구생
+<h1 align="center">
+  <samp>🚀 Hey There!, I am <b>Mingyun</b></samp>
+</h1>
 
-###### 2021.08 한국영상자료원 영화 빅데이터 구축･활용 과제 발굴을 위한 아이디어 공모전 장려상
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingun0112&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <img src="https://img.shields.io/badge/South%20Korea-0047A0?style=flat&logo=southkorea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+</p>
 
-###### 2021.11 글로벌창업혁신센터 빅데이터를 활용한 스마트 시티 & 캠퍼스 창업 아이디어 공모전 장려상
+---
 
-###### 2022.01 ~ 2022.02 Naver Connect Boostcourse AI Basic 1기
+### 💼 Work Experience
+* **2026.01 - Present** | 🛠 **Kumho Tire** (생산연구IT팀)
+* **2022.05 - 2024.08** | 🧠 **Interminds** (R&D팀)
+* **2021.03 - 2022.02** | 🎓 **MLPA 학부연구생**
 
-###### 2022.04 DeepLearning.AI-TensorFlow-Developer 수료
+### 🏆 Honors & Awards
+| Period | Award Details |
+| :--- | :--- |
+| **2025.11** | 🥉 지능형 로봇 컨소시엄 창의적 종합설계 경진대회 **동상 & 특별상** |
+| **2024.12** | 🎖 캡스톤 디자인 (종합설계) 경진대회 **최우수상 & 동상** |
+| **2023.11** | 🥈 **Furiosa AI Hackaton** 우수상 |
+| **2021.11** | 🏅 스마트 시티 & 캠퍼스 창업 아이디어 공모전 장려상 |
+| **2021.08** | 🏅 한국영상자료원 영화 빅데이터 활용 아이디어 공모전 장려상 |
 
-###### 2022.05 ~ 2024.08.09 Interminds R&D팀
+### 🎓 Education & Certifications
+* **2022.04** | DeepLearning.AI - TensorFlow Developer 수료
+* **2022.01** | Naver Connect Boostcourse AI Basic 1기 수료
 
-###### 2023.11.28 Furiosa AI Hackaton 우수상
+---
 
-###### 2024.11.28 2024년 캡스톤 페스티벌 최우수상
-
-###### 2024.12.09 2024 캡스톤디자인 (종합설계) 경진대회 동상
-
-###### 2025.11.07 2025 지능형 로봇 컨소시엄 창의적 종합설계 경진대회 동상
-
-###### 2025.11.26 2025 창의적 종합설계 경진대회 특별상
-
-###### 2026.01.06 ~  금호타이어 생산연구IT팀 
-  </samp>
-</p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mingun0112&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingun0112&layout=compact&theme=radical" />
+</div>
 
 ## Skill ⚔️
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
