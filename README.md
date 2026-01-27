@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/South%20Korea-0047A0?style=flat&logo=southkorea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
 </p>
 
 ---
@@ -21,6 +22,11 @@
 * **2026.01 - Present** | 🛠 **Kumho Tire** (생산연구IT팀)
 * **2022.05 - 2024.08** | 🧠 **Interminds** (R&D팀)
 * **2021.03 - 2022.02** | 🎓 **MLPA 학부연구생**
+
+### 🎓 Education & Certifications
+* **2024.04 - 2024.11** | 🏭 **현대오토에버 모빌리티 SW 스쿨 2기(스마트팩토리)**
+* **2022.04** | DeepLearning.AI - TensorFlow Developer 수료
+* **2022.01** | Naver Connect Boostcourse AI Basic 1기 수료
 
 ### 🏆 Honors & Awards
 | Period | Award Details |
@@ -31,9 +37,7 @@
 | **2021.11** | 🏅 스마트 시티 & 캠퍼스 창업 아이디어 공모전 장려상 |
 | **2021.08** | 🏅 한국영상자료원 영화 빅데이터 활용 아이디어 공모전 장려상 |
 
-### 🎓 Education & Certifications
-* **2022.04** | DeepLearning.AI - TensorFlow Developer 수료
-* **2022.01** | Naver Connect Boostcourse AI Basic 1기 수료
+
 
 ---
 
