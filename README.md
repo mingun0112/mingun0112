@@ -53,7 +53,7 @@
 ![Mingyun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mingun0112&custom_title=Mingyun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 -------------------------------
-<!--
+
 ###### 2021.03 ~ 2022.02 MLPA 학부연구생
 
 ###### 2021.08 한국영상자료원 영화 빅데이터 구축･활용 과제 발굴을 위한 아이디어 공모전 장려상
@@ -62,18 +62,22 @@
 
 ###### 2022.01 ~ 2022.02 Naver Connect Boostcourse AI Basic 1기
 
-###### 2022.03 DACON 손동작 분류 경진대회 (23/365)
-
-###### 2022.04 ~ DACON Computer Vision 이상치 탐지 알고리즘 경진대회
-
 ###### 2022.04 DeepLearning.AI-TensorFlow-Developer 수료
 
-###### 2023.02 모두의아이디어랩 libero
-
-###### 2022.05 ~ Interminds AI Vision Researcher 재직 중
+###### 2022.05 ~ 2024.08.09 Interminds R&D팀
 
 ###### 2023.11.28 Furiosa AI Hackaton 우수상
-----------------------------------
+
+###### 2024.11.28 2024년 캡스톤 페스티벌 최우수상
+
+###### 2024.12.09 2024 캡스톤디자인 (종합설계) 경진대회 동상
+
+###### 2025.11.07 2025 지능형 로봇 컨소시엄 창의적 종합설계 경진대회 동상
+
+###### 2025.11.26 2025 창의적 종합설계 경진대회 특별상
+
+###### 2026.01.06 ~  금호타이어 생산연구IT팀 
+
 
 ![snake gif](https://github.com/mingun0112/mingun0112/blob/output/github-contribution-grid-snake.svg)
 
